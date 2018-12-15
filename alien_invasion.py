@@ -8,6 +8,7 @@ from settings import Settings
 from ship import Ship
 import game_functions.game_functions as gf
 
+
 def run_game():
     # 初始化游戏并创建一个屏幕对象
     pygame.init()
